@@ -141,6 +141,14 @@ services:
 }
 ```
 
+### Création d'un produit — POST /products
+
+![POST /products → 201 Created](./screenshots/create_product-catalog-service.png)
+
+### Liste des produits — GET /products
+
+![GET /products → 200 OK](./screenshots/get_all_products.png)
+
 ---
 
 ## stock-service — gRPC
